@@ -1,3 +1,5 @@
-const info = require("./Fruits");
+import {sum, PI} from "./math.js";
+import { generate } from "random-words";
 
-console.log(info);
+
+console.log(generate());

@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dileep7710/BACKEND#readme",
+  "bugs": {
+    "url": "https://github.com/dileep7710/BACKEND/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dileep7710/BACKEND.git"
+  },
+  "license": "ISC",
+  "author": "Dileep",
+  "type": "module",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "random-words": "^2.0.1"
+  }
+}
